@@ -5,7 +5,7 @@ class App extends Component {
   render() { 
     return ( 
       <main>
-        <h1>Star Wars</h1>
+        <h1>Star Wars App</h1>
       </main>
      );
   }
